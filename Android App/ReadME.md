@@ -16,3 +16,10 @@ A lightweight React Native (Expo) mobile app that wraps the Air Quality Monitori
 - Expo CLI:  
   ```bash
   npm install -g expo-cli
+
+## Project Structure
+- App.js — Main WebView code
+
+- assets/ — Icons, splash screens, etc.
+
+- eas.json — Build profile config
