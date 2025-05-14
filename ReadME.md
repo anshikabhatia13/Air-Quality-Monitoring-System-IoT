@@ -95,10 +95,10 @@ The ESP32 calculates AQI using the analog value from the MQ135 sensor:
 
 ### 6. Formula:
 
-AQI = ((I_high - I_low)/(C_high - C_low)) * (C - C_low) + I_low
-C = Measured gas concentration (ppm)
-I_low, I_high = AQI breakpoints
-C_low, C_high = Gas concentration breakpoints
+- AQI = ((I_high - I_low)/(C_high - C_low)) * (C - C_low) + I_low
+- C = Measured gas concentration (ppm)
+- I_low, I_high = AQI breakpoints
+- C_low, C_high = Gas concentration breakpoints
 
 ## 7. AQI Categories:
 
