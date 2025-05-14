@@ -17,15 +17,15 @@ A responsive and real-time web dashboard for visualizing air quality data from I
 
 ## 🚀 Live Demo
 
-🔗 [your-dashboard-url](https://its-rizz.github.io/IOT-PROJECT/)  
-(replace with your actual hosted URL)
+🔗 [Dashboard](https://its-rizz.github.io/IOT-PROJECT/)  
+
 
 ## 🛠️ Tech Stack
 
 - HTML, CSS, JavaScript
 - Chart.js or Google Charts (for visualization)
 - Firebase Realtime Database
-- Hosting: GitHub Pages / Netlify / Firebase Hosting
+- Hosting: GitHub Pages 
 
 ## 🔧 How to Run Locally
 
@@ -40,7 +40,8 @@ A responsive and real-time web dashboard for visualizing air quality data from I
 
 
 # No build tools required
-    ```start index.html
+    ```bash
+    start index.html
 
 ## 📁 Folder Structure
 
