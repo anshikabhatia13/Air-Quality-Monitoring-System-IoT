@@ -1,13 +1,13 @@
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDhYoDikZxTrlba8cS0V741Jx1n_YZHgkA",
-  authDomain: "esp32-air-quality.firebaseapp.com",
-  databaseURL: "https://esp32-air-quality-default-rtdb.firebaseio.com",
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
   projectId: "esp32-air-quality",
-  storageBucket: "esp32-air-quality.appspot.com",
-  messagingSenderId: "905509419713",
-  appId: "1:905509419713:web:0e6d88bb120b0967247240",
-  measurementId: "G-NW00VFZVJG",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: "",
 };
 
 // Initialize Firebase
