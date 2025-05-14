@@ -102,13 +102,15 @@ The ESP32 calculates AQI using the analog value from the MQ135 sensor:
 
 ## 7. AQI Categories:
 
-    AQI Range	Category	Color
-    0–50	Good	Green
-    51–100	Moderate	Yellow
-    101–150	Unhealthy for SG	Orange
-    151–200	Unhealthy	Red
-    201–300	Very Unhealthy	Purple
-    301–500	Hazardous	Maroon
+| **AQI Range** | **Category**            | **Color** |
+|---------------|-------------------------|-----------|
+| 0–50          | Good                    | Green     |
+| 51–100        | Moderate                | Yellow    |
+| 101–150       | Unhealthy for SG        | Orange    |
+| 151–200       | Unhealthy               | Red       |
+| 201–300       | Very Unhealthy          | Purple    |
+| 301–500       | Hazardous               | Maroon    |
+
 
 ## ⚠️ Known Challenges
 Challenge	Mitigation
